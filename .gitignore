@@ -1,0 +1,5 @@
+.buildozer
+*.swp
+*.swo
+*.pyc
+*.pyo
